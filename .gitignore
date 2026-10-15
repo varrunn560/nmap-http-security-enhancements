@@ -1,0 +1,10 @@
+# Local TLS test certificates and private keys
+tests/certs/
+
+# Python-generated files
+__pycache__/
+*.pyc
+
+# Editor and operating-system files
+.vscode/
+.DS_Store
